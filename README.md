@@ -4,15 +4,15 @@
 
 #### Прежде всего
 
-Прочитай [вводную инструкцию](https://github.com/for2ch/Pirate-F.A.Q/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F), где описаны все термины, определения, версии приставки, которые можно ломать и так далее.
+Прочитай [вводную инструкцию](https://github.com/for2ch/Pirate-F.A.Q/wiki/Основная-информация), где описаны все термины, определения, версии приставки, которые можно ломать и так далее.
 
 ##### Здесь ты можешь найти полезные ссылки на
 
-[Прошлые треды](https://github.com/for2ch/Pirate-F.A.Q/wiki/%D0%A2%D1%80%D0%B5%D0%B4%D1%8B)
+[Прошлые треды](https://github.com/for2ch/Pirate-F.A.Q/wiki/Треды)
 
-[Спикок "must-play" игр](https://github.com/for2ch/Pirate-F.A.Q/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%82%D1%8B)
+[Спикок "must-play" игр](https://github.com/for2ch/Pirate-F.A.Q/wiki/Список-годноты)
 
-[И где их можно скачать](https://github.com/for2ch/Pirate-F.A.Q/wiki/%D0%A1%D0%B0%D0%B9%D1%82%D1%8B-%D1%81-%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)
+[И где их можно скачать](https://github.com/for2ch/Pirate-F.A.Q/wiki/Сайты-с-играми)
 
 
 ## 3DS
@@ -32,7 +32,7 @@
     * [a9lh](https://github.com/for2ch/Pirate-F.A.Q/wiki/arm9loaderhax)
     * [ninjhax](https://github.com/for2ch/Pirate-F.A.Q/wiki/Ninjhax)
 * Способ запуска игр для предыдущих поколений консоли
-  * [DS]()
-  * [DSi]()
-  * [GBA]()
+  * [DS](https://github.com/for2ch/Pirate-F.A.Q/wiki/DS-игры)
+  * [DSi](https://github.com/for2ch/Pirate-F.A.Q/wiki/DSi-игры)
+  * [GBA](https://github.com/for2ch/Pirate-F.A.Q/wiki/GBA-игры)
 * [Homebrew](https://github.com/for2ch/Pirate-F.A.Q/wiki/Homebrew)

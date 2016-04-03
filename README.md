@@ -21,7 +21,7 @@
   * [Gateway](https://github.com/for2ch/Pirate-F.A.Q/wiki/Gateway)
   * [Sky3DS+](https://github.com/for2ch/Pirate-F.A.Q/wiki/Sky3DS-)
 * Программные методы взлома
-  * CFW
+  * [CFW](https://github.com/for2ch/Pirate-F.A.Q/wiki/Подготовка-и-установка-CFW)
     * [ReiNAND](https://github.com/for2ch/Pirate-F.A.Q/wiki/ReiNAND)
     * [AuReiNAND](https://github.com/for2ch/Pirate-F.A.Q/wiki/AuReiNAND)
     * [CakesFW](https://github.com/for2ch/Pirate-F.A.Q/wiki/CakesFW)

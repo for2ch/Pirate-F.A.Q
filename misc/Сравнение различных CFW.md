@@ -21,7 +21,7 @@
 
 [Релизы](https://github.com/Reisyukaku/ReiNand/releases)
 
-## AuReiNAND
+## Luma3DS
 
 Сильно модифицированная версия [ReiNAND](https://github.com/for2ch/Pirate-F.A.Q/wiki/ReiNAND), поддерживающая [a9lh](https://github.com/for2ch/Pirate-F.A.Q/wiki/arm9loaderhax).
 
@@ -31,8 +31,12 @@
 Меню при первой загрузке и возможность подгрузки всяких программ по комбинациям клавиш. Ничего лишнего.
 * Одна из двух, поддерживающих a9lh
 * Активно разрабатывается
-* Добавляются плюшки вроде регионфри и поддержки GBA
+* Добавляются плюшки вроде регионфри и поддержки GBA/DSi
 * Одновременная работа с SysNAND и двумя EmuNAND/RedNAND
+* Можно поставить обои при загрузке
+* Оверклок процессора ньюшки в старых играх
+* Поддержка пейлоадов
+
 
 #### Где взять
 [github](https://github.com/AuroraWright/AuReiNand)
@@ -48,9 +52,9 @@
 Ничего лишнего, но регионфри и прочее придётся включать самому.
 
 #### Где взять
-[github](https://github.com/thedax/Mizuki/)
+[github](https://github.com/AuroraWright/Luma3DS)
 
-[релизы](https://github.com/thedax/Mizuki/releases)
+[релизы](https://github.com/AuroraWright/Luma3DS/releases)
 
 
 ## CakesFW

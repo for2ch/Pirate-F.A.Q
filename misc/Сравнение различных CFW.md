@@ -21,7 +21,7 @@
 
 [Релизы](https://github.com/Reisyukaku/ReiNand/releases)
 
-## Luma3DS
+## Luma3DS (рекомендуемая прошивка)
 
 Сильно модифицированная версия [ReiNAND](https://github.com/for2ch/Pirate-F.A.Q/wiki/ReiNAND), поддерживающая [a9lh](https://github.com/for2ch/Pirate-F.A.Q/wiki/arm9loaderhax).
 
